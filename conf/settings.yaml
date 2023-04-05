@@ -1,0 +1,8 @@
+translator:
+  engine:
+    active: null
+    alternative:
+      - baidu
+      - google
+      - youdao
+      - lingocloud

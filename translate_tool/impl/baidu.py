@@ -1,7 +1,7 @@
 import random
 import requests
 
-from config import settings
+from conf import settings
 from hashlib import md5
 from translate_tool.translator import Translator
 
