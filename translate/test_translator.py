@@ -2,7 +2,7 @@ from unittest import TestCase
 
 from parameterized import parameterized
 
-from translate_tool.translator import Translator
+from translate.translator import Translator
 from util.reflection import scan_all_impl_class
 
 
