@@ -3,7 +3,7 @@ import requests
 
 from conf import settings
 from hashlib import md5
-from translate.translator import Translator
+from translate import Translator
 
 
 class BaiduTranslator(Translator):
