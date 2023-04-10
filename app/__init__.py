@@ -1,0 +1,1 @@
+from clipboard_translator import clipboard_translate
