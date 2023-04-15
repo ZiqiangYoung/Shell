@@ -5,3 +5,4 @@ project(SHELL C)
 set(CMAKE_C_STANDARD 11)
 
 add_subdirectory(app)
+add_subdirectory(src/cmd)
